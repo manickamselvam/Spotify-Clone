@@ -1,0 +1,43 @@
+.background_color{
+    background-color: #121212;
+    color: #fefefe;
+}
+.border_radius{
+    border-radius: 5px;
+}
+.flex{
+    display: flex;
+}
+.margin{
+    margin: 1%;
+}
+.margin_left{
+    margin-left: 1%;
+}
+.margin_right{
+    margin-right: 1%;
+}
+.margin_top{
+    margin-top: 1%;
+}
+.margin_bottom{
+    margin-bottom: 1%;
+}
+.padding{
+    padding: 1.5em;
+}
+.padding_left{
+    padding-left: 1em;
+}
+.justify_content_space_between{
+    justify-content: space-between;
+}
+.full_height{
+    height: 100vh;
+}
+.full_width{
+    width: 100vw;
+}
+.font_size{
+    font-size: 1em;
+}

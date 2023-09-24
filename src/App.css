@@ -1,0 +1,10 @@
+.parent_height{
+    max-height: 100vh;
+}
+.side_bar_Container{
+    width: 20vw;
+}
+.Dashboard_container{
+    width: 80vw;
+    background-color: red;
+}

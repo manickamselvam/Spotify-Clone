@@ -1,0 +1,21 @@
+.footer_and_librrary_parent {
+  height: 74vh;
+  margin-top: 4%;
+}
+.library_container_in_sidebar {
+  height: 35vh;
+  overflow-y: auto;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.library_container_in_sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.library_container_in_sidebar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.footer_container_in_sidebar { 
+  height: 32vh;
+}
