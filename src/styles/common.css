@@ -2,7 +2,7 @@
     background-color: #121212;
     color: #fefefe;
 }
-.border_radius{
+.border_radius{ 
     border-radius: 5px;
 }
 .flex{
@@ -29,8 +29,20 @@
 .padding_left{
     padding-left: 1em;
 }
+.padding_right{
+    padding-right: 1em;
+}
+.padding_top{
+    padding-top: 1em;
+}
+.padding_bottom{
+    padding-bottom: 1em;
+}
 .justify_content_space_between{
     justify-content: space-between;
+}
+.align_item_center{
+    align-items: center;
 }
 .full_height{
     height: 100vh;
